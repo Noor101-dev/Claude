@@ -1,0 +1,12 @@
+{
+  "name": "claude-code-app",
+  "version": "1.0.0",
+  "description": "A chat web app that generates code snippets with copy buttons, powered by a Claude model via NaraRouter.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
