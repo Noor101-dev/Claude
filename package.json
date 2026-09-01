@@ -1,0 +1,5 @@
+{
+  "name": "claude-code-vercel",
+  "version": "1.0.0",
+  "description": "A chat web app that generates code snippets with copy buttons, powered by a Claude model via NaraRouter, deployed on Vercel."
+}
